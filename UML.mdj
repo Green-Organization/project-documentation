@@ -1310,7 +1310,7 @@
 									"font": "Arial;13;0",
 									"left": 459,
 									"top": 285,
-									"width": 45.79541015625,
+									"width": 41.4345703125,
 									"height": 13,
 									"text": "Cinema"
 								},
@@ -1614,7 +1614,7 @@
 									"font": "Arial;13;0",
 									"left": 833.5,
 									"top": 419.5,
-									"width": 123.369140625,
+									"width": 123,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzua5rE/x7+cs="
@@ -2361,7 +2361,7 @@
 									"font": "Arial;13;0",
 									"left": 694,
 									"top": 522.5,
-									"width": 119.078125,
+									"width": 118,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubAO1gtt+O4="
@@ -2831,7 +2831,7 @@
 									"font": "Arial;13;0",
 									"left": 697.5,
 									"top": 642.5,
-									"width": 111.84814453125,
+									"width": 111,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubCAOgzD4Kc="
@@ -3301,7 +3301,7 @@
 									"font": "Arial;13;0",
 									"left": 692.5,
 									"top": 948.5,
-									"width": 137.15625,
+									"width": 136,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubE5rBBqF1U="
@@ -3771,7 +3771,7 @@
 									"font": "Arial;13;0",
 									"left": 687,
 									"top": 794.5,
-									"width": 148.68994140625,
+									"width": 148,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubad9xxKK60="
@@ -4241,7 +4241,7 @@
 									"font": "Arial;13;0",
 									"left": 704.5,
 									"top": 724.5,
-									"width": 112.5908203125,
+									"width": 112,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubbz4h4zcbg="
@@ -4724,7 +4724,7 @@
 									"font": "Arial;13;0",
 									"left": 710,
 									"top": 1162.5,
-									"width": 101.76806640625,
+									"width": 101,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubowjzeschA="
@@ -5196,7 +5196,7 @@
 									"font": "Arial;13;0",
 									"left": 704,
 									"top": 1018.5,
-									"width": 114.72998046875,
+									"width": 114,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzubql0jq6ebI="
@@ -7385,7 +7385,7 @@
 									"font": "Arial;13;0",
 									"left": 686.5,
 									"top": 868.5,
-									"width": 146.53173828125,
+									"width": 146,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFzvzXOB5kFg7I="
@@ -11462,6 +11462,19 @@
 									"width": 60,
 									"height": 77,
 									"text": "Turno non Valido o timer scaduto"
+								},
+								{
+									"_type": "UMLTextView",
+									"_id": "AAAAAAFz5xbACDFrcB0=",
+									"_parent": {
+										"$ref": "AAAAAAFz4i0De1E2kFs="
+									},
+									"font": "Arial;13;0",
+									"left": 440,
+									"top": 584,
+									"width": 60,
+									"height": 25,
+									"text": "Else"
 								}
 							]
 						}
