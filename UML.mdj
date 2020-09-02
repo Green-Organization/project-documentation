@@ -59212,7 +59212,17 @@
 							"target": {
 								"$ref": "AAAAAAFz5xQIAto5W/s="
 							}
-						},
+						}
+					]
+				},
+				{
+					"_type": "UMLActor",
+					"_id": "AAAAAAFztxaslo+8zsU=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "User",
+					"ownedElements": [
 						{
 							"_type": "UMLControlFlow",
 							"_id": "AAAAAAFz5xQIA9pTE8I=",
@@ -59446,7 +59456,28 @@
 							"target": {
 								"$ref": "AAAAAAFz5xQIA9pGWCU="
 							}
-						},
+						}
+					],
+					"stereotype": "boundary",
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF0NLUm/FSdwnM=",
+							"_parent": {
+								"$ref": "AAAAAAF0NJcHTUweRwo="
+							},
+							"name": "attemptPayment"
+						}
+					]
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAF0NJcMXUxr+ck=",
+					"_parent": {
+						"$ref": "AAAAAAF0NGSDmDCfdVI="
+					},
+					"name": "MovieApiBoundary",
+					"ownedElements": [
 						{
 							"_type": "UMLControlFlow",
 							"_id": "AAAAAAFz5xQIA9plAiE=",
@@ -59459,7 +59490,10 @@
 							"target": {
 								"$ref": "AAAAAAFz5xQIAtpEUOc="
 							}
-						},
+						}
+					],
+					"stereotype": "boundary",
+					"operations": [
 						{
 							"_type": "UMLControlFlow",
 							"_id": "AAAAAAFz5xQIA9pmM4Y=",
