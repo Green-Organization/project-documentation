@@ -1,7 +1,7 @@
 {
 	"_type": "UMLModel",
 	"_id": "AAAAAAF1yelhGspervQ=",
-	"name": "Massimo Analysis Model",
+	"name": "Analysis Model",
 	"ownedElements": [
 		{
 			"_type": "UMLProfile",
@@ -15571,9 +15571,9 @@
 														"$ref": "AAAAAAF1zCXWa/XdMRg="
 													},
 													"font": "Arial;13;0",
-													"left": 86.97900390625,
+													"left": 82.58642578125,
 													"top": 13,
-													"width": 194.68603515625,
+													"width": 170.66015625,
 													"height": 13,
 													"text": "SequenceDiagram_assegnaturno"
 												},
@@ -15586,7 +15586,7 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 13,
-													"width": 60.97900390625,
+													"width": 56.58642578125,
 													"height": 13,
 													"text": "interaction"
 												}
@@ -19857,9 +19857,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 792,
-											"top": 804,
+											"top": 811,
 											"width": 275,
-											"height": 26,
+											"height": 13,
 											"alpha": -4.592280148355972,
 											"distance": 116.84177335182824,
 											"hostEdge": {
@@ -20503,9 +20503,9 @@
 											},
 											"font": "Arial;13;0",
 											"left": 518,
-											"top": 501,
+											"top": 514,
 											"width": 212.2021484375,
-											"height": 52,
+											"height": 26,
 											"alpha": -4.959486174196352,
 											"distance": 114.47707194019246,
 											"hostEdge": {
