@@ -6453,7 +6453,7 @@
 											"top": 891.5,
 											"width": 140,
 											"height": 13,
-											"text": "Request shift change"
+											"text": "Request shift change*"
 										},
 										{
 											"_type": "LabelView",
@@ -10413,7 +10413,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF1yipehEVeAGA="
 							},
-							"name": "Request shift change",
+							"name": "Request shift change*",
 							"ownedElements": [
 								{
 									"_type": "UMLAssociation",
