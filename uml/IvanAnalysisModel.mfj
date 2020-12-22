@@ -27716,7 +27716,7 @@
 													"fillColor": "#a3ffd1",
 													"font": "Arial;13;0",
 													"left": 53,
-													"top": 749,
+													"top": 813,
 													"width": 233.84814453125,
 													"height": 13,
 													"text": "«interface»"
@@ -27730,7 +27730,7 @@
 													"fillColor": "#a3ffd1",
 													"font": "Arial;13;1",
 													"left": 53,
-													"top": 764,
+													"top": 828,
 													"width": 233.84814453125,
 													"height": 13,
 													"text": "PaymentService"
@@ -27745,7 +27745,7 @@
 													"fillColor": "#a3ffd1",
 													"font": "Arial;13;0",
 													"left": -128,
-													"top": -240,
+													"top": -112,
 													"width": 132.919921875,
 													"height": 13,
 													"text": "(from PaymentService)"
@@ -27760,7 +27760,7 @@
 													"fillColor": "#a3ffd1",
 													"font": "Arial;13;0",
 													"left": -128,
-													"top": -240,
+													"top": -112,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
@@ -27768,7 +27768,7 @@
 											"fillColor": "#a3ffd1",
 											"font": "Arial;13;0",
 											"left": 48,
-											"top": 744,
+											"top": 808,
 											"width": 243.84814453125,
 											"height": 38,
 											"stereotypeLabel": {
@@ -27797,7 +27797,7 @@
 											"fillColor": "#a3ffd1",
 											"font": "Arial;13;0",
 											"left": -56,
-											"top": -16,
+											"top": 48,
 											"width": 10,
 											"height": 10
 										},
@@ -27823,7 +27823,7 @@
 													"fillColor": "#a3ffd1",
 													"font": "Arial;13;0",
 													"left": 53,
-													"top": 787,
+													"top": 851,
 													"width": 257.84814453125,
 													"height": 13,
 													"text": "+pay(User, Ticket): boolean",
@@ -27833,7 +27833,7 @@
 											"fillColor": "#a3ffd1",
 											"font": "Arial;13;0",
 											"left": 48,
-											"top": 782,
+											"top": 846,
 											"width": 267.84814453125,
 											"height": 23
 										},
@@ -27850,7 +27850,7 @@
 											"fillColor": "#a3ffd1",
 											"font": "Arial;13;0",
 											"left": -56,
-											"top": -16,
+											"top": 48,
 											"width": 10,
 											"height": 10
 										},
@@ -27867,7 +27867,7 @@
 											"fillColor": "#a3ffd1",
 											"font": "Arial;13;0",
 											"left": -56,
-											"top": -16,
+											"top": 48,
 											"width": 10,
 											"height": 10
 										}
@@ -27876,7 +27876,7 @@
 									"font": "Arial;13;0",
 									"containerChangeable": true,
 									"left": 48,
-									"top": 744,
+									"top": 808,
 									"width": 267.84814453125,
 									"height": 73,
 									"stereotypeDisplay": "decoration-label",
@@ -28181,7 +28181,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 161,
-											"top": 893,
+											"top": 925,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -28202,7 +28202,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 146,
-											"top": 893,
+											"top": 925,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -28223,7 +28223,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 190,
-											"top": 894,
+											"top": 926,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -28240,7 +28240,7 @@
 									"tail": {
 										"$ref": "AAAAAAF2UgDGATz5ALE="
 									},
-									"points": "176:984;176:816",
+									"points": "176:984;176:880",
 									"stereotypeDisplay": "decoration-label",
 									"showVisibility": true,
 									"nameLabel": {
@@ -30389,7 +30389,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 188,
-											"top": 712,
+											"top": 776,
 											"height": 13,
 											"alpha": -0.5235987755982988,
 											"distance": 30,
@@ -30409,7 +30409,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 201,
-											"top": 709,
+											"top": 773,
 											"height": 13,
 											"alpha": -0.7853981633974483,
 											"distance": 40,
@@ -30429,7 +30429,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 160,
-											"top": 716,
+											"top": 780,
 											"height": 13,
 											"alpha": 0.5235987755982988,
 											"distance": 25,
@@ -30477,7 +30477,7 @@
 									"tail": {
 										"$ref": "AAAAAAF11kgH0yzAtdk="
 									},
-									"points": "960:628;960:664;173:664;173:744",
+									"points": "960:628;960:664;173:664;173:808",
 									"stereotypeDisplay": "decoration-label",
 									"showVisibility": true,
 									"nameLabel": {
@@ -40414,7 +40414,7 @@
 													"top": 1500,
 													"width": 149.576171875,
 													"height": 13,
-													"text": "ServiceMovieAPIFacade"
+													"text": "ServiceMovieAPI"
 												},
 												{
 													"_type": "LabelView",
@@ -43856,7 +43856,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2UrH9Wz64aLQ="
 							},
-							"name": "ServiceMovieAPIFacade",
+							"name": "ServiceMovieAPI",
 							"ownedElements": [
 								{
 									"_type": "UMLInterfaceRealization",
@@ -43930,6 +43930,7 @@
 									"name": "ChooseSeatsViewModel",
 									"visibility": "private",
 									"isStatic": true,
+									"type": "",
 									"defaultValue": "null"
 								},
 								{
@@ -43939,7 +43940,8 @@
 										"$ref": "AAAAAAF2f/2amAUTNCo="
 									},
 									"name": "Ticket ticket",
-									"visibility": "private"
+									"visibility": "private",
+									"type": ""
 								}
 							],
 							"operations": [
@@ -48079,9 +48081,9 @@
 												"$ref": "AAAAAAF2bIaxfG0IJnQ="
 											},
 											"font": "Arial;13;0",
-											"left": 887,
+											"left": 889,
 											"top": 610,
-											"width": 91.41259765625,
+											"width": 86.75341796875,
 											"height": 13,
 											"autoResize": true,
 											"alpha": 1.5707963267948966,
@@ -48340,7 +48342,7 @@
 									"font": "Arial;13;0",
 									"left": 1448,
 									"top": 384,
-									"width": 75.64990234375,
+									"width": 71.27001953125,
 									"height": 116,
 									"autoResize": true,
 									"text": "Questa più altre classi di interessa andranno a formare la mia Boundary"
@@ -50756,7 +50758,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF2f/jRmNQ5CRY="
 											},
-											"name": "User user"
+											"name": "User user",
+											"type": ""
 										},
 										{
 											"_type": "UMLParameter",
@@ -51301,7 +51304,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF2UgGkYkHU24A="
 											},
-											"name": "User"
+											"name": "User",
+											"type": ""
 										},
 										{
 											"_type": "UMLParameter",
@@ -51309,7 +51313,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF2UgGkYkHU24A="
 											},
-											"name": "Ticket"
+											"name": "Ticket",
+											"type": ""
 										},
 										{
 											"_type": "UMLParameter",
@@ -51373,7 +51378,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF2au8YUQ49ZRA="
 											},
-											"name": "User"
+											"name": "User",
+											"type": ""
 										},
 										{
 											"_type": "UMLParameter",
@@ -51447,7 +51453,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF2UgBUnTllUYM="
 											},
-											"name": "User"
+											"name": "User",
+											"type": ""
 										},
 										{
 											"_type": "UMLParameter",
@@ -51455,7 +51462,8 @@
 											"_parent": {
 												"$ref": "AAAAAAF2UgBUnTllUYM="
 											},
-											"name": "Ticket"
+											"name": "Ticket",
+											"type": ""
 										},
 										{
 											"_type": "UMLParameter",
