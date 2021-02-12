@@ -25485,7 +25485,7 @@
 															"top": 451,
 															"width": 154.96533203125,
 															"height": 13,
-															"text": "+retriveMovie()",
+															"text": "+getMovies()",
 															"horizontalAlignment": 0
 														}
 													],
@@ -72343,7 +72343,7 @@
 															"top": 492,
 															"width": 297.552734375,
 															"height": 13,
-															"text": "+pay(Request): boolean",
+															"text": "+pay(Request): void",
 															"horizontalAlignment": 0
 														},
 														{
@@ -72415,7 +72415,7 @@
 															"top": 552,
 															"width": 297.552734375,
 															"height": 13,
-															"text": "+getNumberOfSeats(Request): List<Seat>",
+															"text": "+getListOfSeats(Request): List<Seat>",
 															"horizontalAlignment": 0
 														},
 														{
@@ -72451,7 +72451,7 @@
 															"top": 582,
 															"width": 297.552734375,
 															"height": 13,
-															"text": "+getProjection(Request): List<String>",
+															"text": "+getListProjection(Request): List<String>",
 															"horizontalAlignment": 0
 														}
 													],
@@ -72939,7 +72939,7 @@
 															"top": 526,
 															"width": 156.56689453125,
 															"height": 13,
-															"text": "+showMovie()",
+															"text": "+showMovies()",
 															"horizontalAlignment": 0
 														},
 														{
@@ -72993,7 +72993,7 @@
 															"top": 571,
 															"width": 156.56689453125,
 															"height": 13,
-															"text": "+showCinema()",
+															"text": "+showCinemas()",
 															"horizontalAlignment": 0
 														},
 														{
@@ -73011,7 +73011,7 @@
 															"top": 586,
 															"width": 156.56689453125,
 															"height": 13,
-															"text": "+showProjection()",
+															"text": "+showProjections()",
 															"horizontalAlignment": 0
 														},
 														{
@@ -73915,7 +73915,7 @@
 															"top": 533,
 															"width": 138.7744140625,
 															"height": 13,
-															"text": "+retriveMovie()",
+															"text": "+getMovies()",
 															"horizontalAlignment": 0
 														}
 													],
@@ -80969,8 +80969,7 @@
 													"_parent": {
 														"$ref": "AAAAAAF3NCouEF32GkI="
 													},
-													"name": "Request",
-													"type": ""
+													"name": "Request"
 												},
 												{
 													"_type": "UMLParameter",
@@ -80978,7 +80977,7 @@
 													"_parent": {
 														"$ref": "AAAAAAF3NCouEF32GkI="
 													},
-													"type": "boolean",
+													"type": "void",
 													"direction": "return"
 												}
 											]
@@ -81075,7 +81074,7 @@
 											"_parent": {
 												"$ref": "AAAAAAF3NCouEV4KnPI="
 											},
-											"name": "getNumberOfSeats",
+											"name": "getListOfSeats",
 											"parameters": [
 												{
 													"_type": "UMLParameter",
@@ -81083,8 +81082,7 @@
 													"_parent": {
 														"$ref": "AAAAAAF3NCouEF4CDDI="
 													},
-													"name": "Request",
-													"type": ""
+													"name": "Request"
 												},
 												{
 													"_type": "UMLParameter",
@@ -81131,7 +81129,7 @@
 											"_parent": {
 												"$ref": "AAAAAAF3NCouEV4KnPI="
 											},
-											"name": "getProjection",
+											"name": "getListProjection",
 											"parameters": [
 												{
 													"_type": "UMLParameter",
@@ -81139,8 +81137,7 @@
 													"_parent": {
 														"$ref": "AAAAAAF3NCouEF4JUp8="
 													},
-													"name": "Request",
-													"type": ""
+													"name": "Request"
 												},
 												{
 													"_type": "UMLParameter",
@@ -81336,7 +81333,7 @@
 											"_parent": {
 												"$ref": "AAAAAAF3NCouEl6U+8U="
 											},
-											"name": "retriveMovie"
+											"name": "getMovies"
 										}
 									]
 								},
@@ -81496,7 +81493,7 @@
 											"_parent": {
 												"$ref": "AAAAAAF3NCouEl6Czcw="
 											},
-											"name": "showMovie"
+											"name": "showMovies"
 										},
 										{
 											"_type": "UMLOperation",
@@ -81520,7 +81517,7 @@
 											"_parent": {
 												"$ref": "AAAAAAF3NCouEl6Czcw="
 											},
-											"name": "showCinema"
+											"name": "showCinemas"
 										},
 										{
 											"_type": "UMLOperation",
@@ -81528,7 +81525,7 @@
 											"_parent": {
 												"$ref": "AAAAAAF3NCouEl6Czcw="
 											},
-											"name": "showProjection"
+											"name": "showProjections"
 										},
 										{
 											"_type": "UMLOperation",
