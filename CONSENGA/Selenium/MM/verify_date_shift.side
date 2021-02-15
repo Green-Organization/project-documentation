@@ -1,0 +1,91 @@
+{
+  "id": "5478b0ec-a843-4c7b-b799-32780964f62a",
+  "version": "2.0",
+  "name": "verify_date_shift",
+  "url": "http://localhost:8080/manage_employee_shift",
+  "tests": [{
+    "id": "5c09ab48-b19b-4c4a-b7ee-69b026ce0ac7",
+    "name": "massimo_mazzetti",
+    "commands": [{
+      "id": "63f90765-36d4-43ee-91ad-3c5e7e332057",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:8080/manage_employee_shift",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0f26d9bd-ba16-4ceb-b7bb-dcb324fa7629",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1884x1012",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fe9c81ee-f58f-41ea-af64-90559b6d4ff7",
+      "comment": "",
+      "command": "click",
+      "target": "id=date",
+      "targets": [
+        ["id=date", "id"],
+        ["name=start", "name"],
+        ["css=#date", "css:finder"],
+        ["xpath=//input[@id='date']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b092285e-792a-4cca-a8db-7c60a6a70d22",
+      "comment": "",
+      "command": "type",
+      "target": "id=date",
+      "targets": [
+        ["id=date", "id"],
+        ["name=start", "name"],
+        ["css=#date", "css:finder"],
+        ["xpath=//input[@id='date']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "2021-02-25"
+    }, {
+      "id": "ee7cbb22-16ff-47a7-9c95-ab35657990aa",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Search')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "053c545a-1f53-4900-981e-c54075f0e0c8",
+      "comment": "",
+      "command": "click",
+      "target": "css=tr:nth-child(1) > td:nth-child(8) .btn",
+      "targets": [
+        ["css=tr:nth-child(1) > td:nth-child(8) .btn", "css:finder"],
+        ["xpath=(//button[@type='button'])[5]", "xpath:attributes"],
+        ["xpath=//span[5]/span/a/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fa1fa739-cabb-475a-a276-55fe27b7b9c0",
+      "comment": "",
+      "command": "verifyText",
+      "target": "xpath=//div[4]/div[2]",
+      "targets": [],
+      "value": "2021-02-28"
+    }]
+  }],
+  "suites": [{
+    "id": "aad00cd0-b9a0-46aa-af5f-4191e42b35ec",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://localhost:8080/", "http://localhost:8080/manage_employee_shift"],
+  "plugins": []
+}
