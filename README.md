@@ -16,8 +16,8 @@ Submission of the deliverables inside a .zip file via GitHub.
         3. Operational settings
         4. Related systems with pros and cons (at least two)
     2. User Stories (3 per member)
-    3. Functional Requirements (3 per member)
-    4. Use Cases: Overview diagram
+    3. Functional Requirements (3 per member, it is legitimate to derive them from the user stories)
+    4. Use Cases: Overview diagram (it must include at least 2 secondary actors, 2 include relationships and 2 extend relationships)
 
 ### Storyboards
 
@@ -30,9 +30,9 @@ Submission of the deliverables inside a .zip file via GitHub.
     * analysis VOPC (1 per member)
     * design level diagram including patterns or specific solutions that improve the engineering level of the system (1 per member)
 - Design patterns: possibly applied in the project context (1 per member)
-- Activity diagram (1 per member)
-- Sequence diagram (1 per member)
-- State diagram (1 per member)
+- Activity diagram (1 per member, it must include every studied element of the activity diagrams)
+- Sequence diagram (1 per member, it must include at least 2 synchronous messages and 2 asynchronous messages)
+- State diagram (1 per member, based on the developed use case)
 
 ### Testing
 
