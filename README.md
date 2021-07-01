@@ -10,11 +10,11 @@ Submission of the deliverables inside a .zip file via GitHub.
 
 - Format: PDF
 - Structure:
-  :heavy_check_mark:    1. Introduction
-  :heavy_check_mark:      1. Aim of the Document
-  :heavy_check_mark:      2. Overview of the defined system
-  :heavy_check_mark:      3. Operational settings
-  :heavy_check_mark:      4. Related systems with pros and cons (at least two)
+    1. Introduction :heavy_check_mark:
+        1. Aim of the Document
+        2. Overview of the defined system
+        3. Operational settings
+        4. Related systems with pros and cons (at least two)
     2. User Stories (3 per member)
     3. Functional Requirements (3 per member, it is legitimate to derive them from the user stories)
     4. Use Cases: Overview diagram (it must include at least 2 secondary actors, 2 include relationships and 2 extend relationships)
