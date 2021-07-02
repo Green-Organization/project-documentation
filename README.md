@@ -36,16 +36,16 @@ Submission of the deliverables inside a .zip file via GitHub.
 
 ### Testing
 
-- Develop test cases (at least 3 per member)
+- Develop test cases (at least 3 per member) :heavy_check_mark:
 - Selenium test via GUI (1 per member)
-- Selenium test via API (1 per member)
+- Selenium test via API (1 per member) :heavy_check_mark:
 
 ### Code
 
-- ~4K lines of code
-- Similar functionality implemented as Desktop (JavaFX) and as a Web App (HTML + CSS + JSP or similar + DB or filesystem)
+- ~4K lines of code :heavy_check_mark:
+- Similar functionality implemented as Desktop (JavaFX) and as a Web App (HTML + CSS + JSP or similar + DB or filesystem) :heavy_check_mark:
 - Develop exception classes and handle errors (2 per member)
-- Use and set up a VCS (Git or SVN), a CI/CD tool (GitHub Actions or Travis) and analyze the project with SonarCloud
+- Use and set up a VCS (Git or SVN), a CI/CD tool (GitHub Actions or Travis) and analyze the project with SonarCloud :heavy_check_mark:
 - No SonarCloud rule must be violated (0 code smells).
 
 ### Video
