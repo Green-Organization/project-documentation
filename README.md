@@ -6,7 +6,7 @@ Deliverables of the Cinehub project for the Software Engineering and Web Design 
 
 Submission of the deliverables inside a .zip file via GitHub.
 
-### Software Requirement Specification :x:
+### Software Requirement Specification :heavy_check_mark:
 
 - Format: PDF
 - Structure:
