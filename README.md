@@ -44,7 +44,7 @@ Submission of the deliverables inside a .zip file via GitHub.
 
 - ~4K lines of code :heavy_check_mark:
 - Similar functionality implemented as Desktop (JavaFX) and as a Web App (HTML + CSS + JSP or similar + DB or filesystem) :heavy_check_mark:
-- Develop exception classes and handle errors (2 per member) :x:
+- Develop exception classes and handle errors (2 per member) :heavy_check_mark:
 - Use and set up a VCS (Git or SVN), a CI/CD tool (GitHub Actions or Travis) and analyze the project with SonarCloud :heavy_check_mark:
 - No SonarCloud rule must be violated (0 code smells). :x:
 
