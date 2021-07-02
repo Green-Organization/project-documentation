@@ -15,9 +15,9 @@ Submission of the deliverables inside a .zip file via GitHub.
         2. Overview of the defined system
         3. Operational settings
         4. Related systems with pros and cons (at least two)
-    2. User Stories (3 per member)
-    3. Functional Requirements (3 per member, it is legitimate to derive them from the user stories)
-    4. Use Cases: Overview diagram (it must include at least 2 secondary actors, 2 include relationships and 2 extend relationships)
+    2. User Stories (3 per member) :heavy_check_mark:
+    3. Functional Requirements (3 per member, it is legitimate to derive them from the user stories) :heavy_check_mark:
+    4. Use Cases: Overview diagram (it must include at least 2 secondary actors, 2 include relationships and 2 extend relationships) :heavy_check_mark:
 
 ### Storyboards
 
