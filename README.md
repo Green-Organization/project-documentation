@@ -6,7 +6,7 @@ Deliverables of the Cinehub project for the Software Engineering and Web Design 
 
 Submission of the deliverables inside a .zip file via GitHub.
 
-### Software Requirement Specification
+### Software Requirement Specification :x:
 
 - Format: PDF
 - Structure:
@@ -19,36 +19,36 @@ Submission of the deliverables inside a .zip file via GitHub.
     3. Functional Requirements (3 per member, it is legitimate to derive them from the user stories) :heavy_check_mark:
     4. Use Cases: Overview diagram (it must include at least 2 secondary actors, 2 include relationships and 2 extend relationships) :heavy_check_mark:
 
-### Storyboards
+### Storyboards :x:
 
 - Format: HTML
-- Quantity: 2 screens per member, covering all the functionality described in the SRS.
+- Quantity: 2 screens per member, covering all the functionality described in the SRS. :x:
 
-### Design
+### Design :x:
 
 - Class diagram:
-    * analysis VOPC (1 per member)
-    * design level diagram including patterns or specific solutions that improve the engineering level of the system (1 per member)
-- Design patterns: possibly applied in the project context (1 per member)
-- Activity diagram (1 per member, it must include every studied element of the activity diagrams)
-- Sequence diagram (1 per member, it must include at least 2 synchronous messages and 2 asynchronous messages)
-- State diagram (1 per member, based on the developed use case)
+    * analysis VOPC (1 per member) :x:
+    * design level diagram including patterns or specific solutions that improve the engineering level of the system (1 per member) :x:
+- Design patterns: possibly applied in the project context (1 per member) :x:
+- Activity diagram (1 per member, it must include every studied element of the activity diagrams) :x:
+- Sequence diagram (1 per member, it must include at least 2 synchronous messages and 2 asynchronous messages) :x:
+- State diagram (1 per member, based on the developed use case) :x:
 
-### Testing
+### Testing :x:
 
 - Develop test cases (at least 3 per member) :heavy_check_mark:
-- Selenium test via GUI (1 per member)
+- Selenium test via GUI (1 per member) :x:
 - Selenium test via API (1 per member) :heavy_check_mark:
 
-### Code
+### Code :x:
 
 - ~4K lines of code :heavy_check_mark:
 - Similar functionality implemented as Desktop (JavaFX) and as a Web App (HTML + CSS + JSP or similar + DB or filesystem) :heavy_check_mark:
-- Develop exception classes and handle errors (2 per member)
+- Develop exception classes and handle errors (2 per member) :x:
 - Use and set up a VCS (Git or SVN), a CI/CD tool (GitHub Actions or Travis) and analyze the project with SonarCloud :heavy_check_mark:
-- No SonarCloud rule must be violated (0 code smells).
+- No SonarCloud rule must be violated (0 code smells). :x:
 
-### Video
+### Video :x:
 
 - Format: MPEG
-- A one or two minutes long video of the developed system performing the expected functionalities
+- A one or two minutes long video of the developed system performing the expected functionalities :x:
