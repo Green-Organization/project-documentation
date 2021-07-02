@@ -10,11 +10,11 @@
    version="1.1"
    width="1236"
    height="1004"
-   id="svg1014"
+   id="svg1054"
    sodipodi:docname="View Personal Schedule Diagram.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata1018">
+     id="metadata1058">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -35,19 +35,19 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
-     id="namedview1016"
+     id="namedview1056"
      showgrid="false"
      inkscape:zoom="0.84661355"
      inkscape:cx="618"
-     inkscape:cy="549.24706"
-     inkscape:window-x="-8"
+     inkscape:cy="407.50588"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1012" />
+     inkscape:current-layer="g1052" />
   <defs
      id="defs2" />
   <g
-     id="g1012">
+     id="g1052">
     <g
        transform="translate(-110,-6)"
        id="g482">
@@ -978,7 +978,7 @@
       <path
          fill="#c0c0c0"
          stroke="none"
-         d="m 1061,152.5 c 0,-5.24671 4.2533,-9.5 9.5,-9.5 5.2467,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.2533,9.5 -9.5,9.5 -5.2467,0 -9.5,-4.25329 -9.5,-9.5 z"
+         d="m 1081,152.5 c 0,-5.24671 4.2533,-9.5 9.5,-9.5 5.2467,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.2533,9.5 -9.5,9.5 -5.2467,0 -9.5,-4.25329 -9.5,-9.5 z"
          opacity="0.2"
          id="path836" />
     </g>
@@ -988,7 +988,7 @@
       <path
          fill="#000000"
          stroke="none"
-         d="m 1054,145.5 c 0,-5.24671 4.2533,-9.5 9.5,-9.5 5.2467,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.2533,9.5 -9.5,9.5 -5.2467,0 -9.5,-4.25329 -9.5,-9.5 z"
+         d="m 1074,145.5 c 0,-5.24671 4.2533,-9.5 9.5,-9.5 5.2467,0 9.5,4.25329 9.5,9.5 0,5.24671 -4.2533,9.5 -9.5,9.5 -5.2467,0 -9.5,-4.25329 -9.5,-9.5 z"
          id="path840" />
     </g>
     <g
@@ -997,7 +997,7 @@
       <path
          fill="#c0c0c0"
          stroke="none"
-         d="M 1050,448.5 1070.5,428 1090,448.5 1070.5,468 1050,448.5"
+         d="M 1070,448.5 1090.5,428 1110,448.5 1090.5,468 1070,448.5"
          opacity="0.2"
          id="path844" />
     </g>
@@ -1007,7 +1007,7 @@
       <path
          fill="#ffffff"
          stroke="none"
-         d="m 1043,441 20,-20 20,20 -20,20 -20,-20"
+         d="m 1063,441 20,-20 20,20 -20,20 -20,-20"
          id="path848" />
     </g>
     <g
@@ -1016,7 +1016,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1043,441 20,-20 20,20 -20,20 -20,-20 v 0"
+         d="m 1063,441 20,-20 20,20 -20,20 -20,-20 v 0"
          stroke-miterlimit="10"
          id="path852" />
     </g>
@@ -1079,7 +1079,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1083,440 h 141 v 83"
+         d="m 1103,440 h 121 v 83"
          stroke-miterlimit="10"
          id="path876" />
     </g>
@@ -1112,7 +1112,7 @@
            font-weight="normal"
            text-decoration="none"
            x="1110.5"
-           y="435.5"
+           y="427.5"
            id="text886"
            style="text-decoration:none;text-decoration-line:none">[user is a projectionist]</text>
       </g>
@@ -1123,7 +1123,7 @@
       <path
          fill="#c0c0c0"
          stroke="none"
-         d="M 1050,652.5 1070.5,632 1090,652.5 1070.5,672 1050,652.5"
+         d="M 1070,652.5 1090.5,632 1110,652.5 1090.5,672 1070,652.5"
          opacity="0.2"
          id="path892" />
     </g>
@@ -1133,7 +1133,7 @@
       <path
          fill="#ffffff"
          stroke="none"
-         d="m 1043,645 20,-20 20,20 -20,20 -20,-20"
+         d="m 1063,645 20,-20 20,20 -20,20 -20,-20"
          id="path896" />
     </g>
     <g
@@ -1142,7 +1142,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1043,645 20,-20 20,20 -20,20 -20,-20 v 0"
+         d="m 1063,645 20,-20 20,20 -20,20 -20,-20 v 0"
          stroke-miterlimit="10"
          id="path900" />
     </g>
@@ -1152,7 +1152,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1224,563 v 82 h -141"
+         d="m 1224,563 v 82 h -121"
          stroke-miterlimit="10"
          id="path904" />
     </g>
@@ -1162,7 +1162,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 1093.1627,640.79048 1083,645 l 10.1627,4.20952"
+         d="M 1113.1627,640.79048 1103,645 l 10.1627,4.20952"
          stroke-miterlimit="10"
          id="path908" />
     </g>
@@ -1172,7 +1172,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 1063,462 V 624"
+         d="M 1083,462 V 624"
          stroke-miterlimit="10"
          id="path912" />
     </g>
@@ -1182,7 +1182,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 1058.7905,613.83733 1063,624 l 4.2095,-10.16267"
+         d="M 1078.7905,613.83733 1083,624 l 4.2095,-10.16267"
          stroke-miterlimit="10"
          id="path916" />
     </g>
@@ -1204,7 +1204,7 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="1009.5"
+           x="1029.5"
            y="547.5"
            id="text922"
            style="text-decoration:none;text-decoration-line:none">[else]</text>
@@ -1216,7 +1216,7 @@
       <path
          fill="#c0c0c0"
          stroke="none"
-         d="m 1058,746.5 c 0,-6.90356 5.5964,-12.5 12.5,-12.5 6.9036,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.5964,12.5 -12.5,12.5 -6.9036,0 -12.5,-5.59644 -12.5,-12.5 z"
+         d="m 1078,746.5 c 0,-6.90356 5.5964,-12.5 12.5,-12.5 6.9036,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.5964,12.5 -12.5,12.5 -6.9036,0 -12.5,-5.59644 -12.5,-12.5 z"
          opacity="0.2"
          id="path928" />
     </g>
@@ -1226,7 +1226,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1051,739.5 c 0,-6.90356 5.5964,-12.5 12.5,-12.5 6.9036,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.5964,12.5 -12.5,12.5 -6.9036,0 -12.5,-5.59644 -12.5,-12.5 z"
+         d="m 1071,739.5 c 0,-6.90356 5.5964,-12.5 12.5,-12.5 6.9036,0 12.5,5.59644 12.5,12.5 0,6.90356 -5.5964,12.5 -12.5,12.5 -6.9036,0 -12.5,-5.59644 -12.5,-12.5 z"
          stroke-miterlimit="10"
          id="path932" />
     </g>
@@ -1236,7 +1236,7 @@
       <path
          fill="#000000"
          stroke="none"
-         d="m 1056,739.5 c 0,-4.14214 3.3579,-7.5 7.5,-7.5 4.1421,0 7.5,3.35786 7.5,7.5 0,4.14214 -3.3579,7.5 -7.5,7.5 -4.1421,0 -7.5,-3.35786 -7.5,-7.5 z"
+         d="m 1076,739.5 c 0,-4.14214 3.3579,-7.5 7.5,-7.5 4.1421,0 7.5,3.35786 7.5,7.5 0,4.14214 -3.3579,7.5 -7.5,7.5 -4.1421,0 -7.5,-3.35786 -7.5,-7.5 z"
          id="path936" />
     </g>
     <g
@@ -1245,7 +1245,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1063,666 v 60"
+         d="m 1083,666 v 60"
          stroke-miterlimit="10"
          id="path940" />
     </g>
@@ -1255,7 +1255,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 1058.7905,715.83733 1063,726 l 4.2095,-10.16267"
+         d="M 1078.7905,715.83733 1083,726 l 4.2095,-10.16267"
          stroke-miterlimit="10"
          id="path944" />
     </g>
@@ -1265,7 +1265,7 @@
       <path
          fill="#c0c0c0"
          stroke="none"
-         d="m 999,224 h 142.1245 q 10,0 10,10 v 20 q 0,10 -10,10 H 999 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
+         d="m 945,255 h 142.1245 q 10,0 10,10 v 20 q 0,10 -10,10 H 945 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
          opacity="0.2"
          id="path948" />
     </g>
@@ -1275,7 +1275,7 @@
       <path
          fill="#ffffff"
          stroke="none"
-         d="m 992,217 h 142.1245 q 10,0 10,10 v 20 q 0,10 -10,10 H 992 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
+         d="m 938,248 h 142.1245 q 10,0 10,10 v 20 q 0,10 -10,10 H 938 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
          id="path952" />
     </g>
     <g
@@ -1284,7 +1284,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 992,217 h 142.1245 q 10,0 10,10 v 20 q 0,10 -10,10 H 992 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
+         d="m 938,248 h 142.1245 q 10,0 10,10 v 20 q 0,10 -10,10 H 938 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
          stroke-miterlimit="10"
          id="path956" />
     </g>
@@ -1306,8 +1306,8 @@
            font-style="normal"
            font-weight="bold"
            text-decoration="none"
-           x="991.88281"
-           y="236.5"
+           x="937.88281"
+           y="267.5"
            id="text962"
            style="text-decoration:none;text-decoration-line:none">Show shift date and time</text>
       </g>
@@ -1318,7 +1318,7 @@
       <path
          fill="#c0c0c0"
          stroke="none"
-         d="m 1016,326 h 108.1646 q 10,0 10,10 v 20 q 0,10 -10,10 H 1016 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
+         d="m 1137,254 h 108.1646 q 10,0 10,10 v 20 q 0,10 -10,10 H 1137 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
          opacity="0.2"
          id="path968" />
     </g>
@@ -1328,7 +1328,7 @@
       <path
          fill="#ffffff"
          stroke="none"
-         d="m 1009,319 h 108.1646 q 10,0 10,10 v 20 q 0,10 -10,10 H 1009 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
+         d="m 1130,247 h 108.1646 q 10,0 10,10 v 20 q 0,10 -10,10 H 1130 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
          id="path972" />
     </g>
     <g
@@ -1337,7 +1337,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1009,319 h 108.1646 q 10,0 10,10 v 20 q 0,10 -10,10 H 1009 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
+         d="m 1130,247 h 108.1646 q 10,0 10,10 v 20 q 0,10 -10,10 H 1130 q -10,0 -10,-10 v -20 q 0,-10 10,-10 z"
          stroke-miterlimit="10"
          id="path976" />
     </g>
@@ -1359,8 +1359,8 @@
            font-style="normal"
            font-weight="bold"
            text-decoration="none"
-           x="1008.886"
-           y="338.5"
+           x="1129.886"
+           y="266.5"
            id="text982"
            style="text-decoration:none;text-decoration-line:none">Show shift location</text>
       </g>
@@ -1369,40 +1369,38 @@
        transform="translate(-110,-6)"
        id="g990">
       <path
-         fill="none"
-         stroke="#000000"
-         d="m 1063,156 v 60"
-         stroke-miterlimit="10"
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 937,207 h 306 q 3,0 3,3 v -1 q 0,3 -3,3 H 937 q -3,0 -3,-3 v 1 q 0,-3 3,-3 z"
+         opacity="0.2"
          id="path988" />
     </g>
     <g
        transform="translate(-110,-6)"
        id="g994">
       <path
-         fill="none"
-         stroke="#000000"
-         d="M 1058.7905,205.83733 1063,216 l 4.2095,-10.16267"
-         stroke-miterlimit="10"
+         fill="#000000"
+         stroke="none"
+         d="m 930,200 h 306 q 3,0 3,3 v 0 q 0,3 -3,3 H 930 q -3,0 -3,-3 v 0 q 0,-3 3,-3 z"
          id="path992" />
     </g>
     <g
        transform="translate(-110,-6)"
        id="g998">
       <path
-         fill="none"
-         stroke="#000000"
-         d="m 1063,258 v 60"
-         stroke-miterlimit="10"
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 941,343 h 298 q 3,0 3,3 v -1 q 0,3 -3,3 H 941 q -3,0 -3,-3 v 1 q 0,-3 3,-3 z"
+         opacity="0.2"
          id="path996" />
     </g>
     <g
        transform="translate(-110,-6)"
        id="g1002">
       <path
-         fill="none"
-         stroke="#000000"
-         d="M 1058.7905,307.83733 1063,318 l 4.2095,-10.16267"
-         stroke-miterlimit="10"
+         fill="#000000"
+         stroke="none"
+         d="m 934,336 h 298 q 3,0 3,3 v 0 q 0,3 -3,3 H 934 q -3,0 -3,-3 v 0 q 0,-3 3,-3 z"
          id="path1000" />
     </g>
     <g
@@ -1411,7 +1409,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1063,360 v 60"
+         d="m 1083,156 v 43"
          stroke-miterlimit="10"
          id="path1004" />
     </g>
@@ -1421,9 +1419,109 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 1058.7905,409.83733 1063,420 l 4.2095,-10.16267"
+         d="M 1078.7905,188.83733 1083,199 l 4.2095,-10.16267"
          stroke-miterlimit="10"
          id="path1008" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1014">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1008,205 v 43"
+         stroke-miterlimit="10"
+         id="path1012" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1018">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1003.7905,237.83733 1008,248 l 4.2095,-10.16267"
+         stroke-miterlimit="10"
+         id="path1016" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1022">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1184,205 v 42"
+         stroke-miterlimit="10"
+         id="path1020" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1026">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1179.7905,236.83733 1184,247 l 4.2095,-10.16267"
+         stroke-miterlimit="10"
+         id="path1024" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1030">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1008,288 v 48"
+         stroke-miterlimit="10"
+         id="path1028" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1034">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1003.7905,325.83733 1008,336 l 4.2095,-10.16267"
+         stroke-miterlimit="10"
+         id="path1032" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1038">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1184,287 v 49"
+         stroke-miterlimit="10"
+         id="path1036" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1042">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1179.7905,325.83733 1184,336 l 4.2095,-10.16267"
+         stroke-miterlimit="10"
+         id="path1040" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1046">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1083,342 v 78"
+         stroke-miterlimit="10"
+         id="path1044" />
+    </g>
+    <g
+       transform="translate(-110,-6)"
+       id="g1050">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1078.7905,409.83733 1083,420 l 4.2095,-10.16267"
+         stroke-miterlimit="10"
+         id="path1048" />
     </g>
   </g>
 </svg>
