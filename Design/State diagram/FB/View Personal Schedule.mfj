@@ -1,9 +1,6 @@
 {
 	"_type": "UMLStateMachine",
 	"_id": "AAAAAAF3pLE+7oOJWj4=",
-	"_parent": {
-		"$ref": "AAAAAAF3NCg38fSASLw="
-	},
 	"name": "StateMachine",
 	"ownedElements": [
 		{
@@ -1104,16 +1101,16 @@
 							},
 							"font": "Arial;13;0",
 							"left": 1335,
-							"top": 268,
+							"top": 262,
 							"width": 203.77880859375,
-							"height": 52,
+							"height": 65,
 							"alpha": -1.4702192919229085,
 							"distance": 109.55363982999378,
 							"hostEdge": {
 								"$ref": "AAAAAAF3pLVsvoWZPjA="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS showMyProjectionsScheduleButton AND user IS projectionist] / load projection schedule list",
+							"text": "click [button IS showMyProjectionsScheduleButton AND user HAS projectionist privileges] / load projection schedule list",
 							"wordWrap": true
 						},
 						{
@@ -2359,9 +2356,6 @@
 					"_parent": {
 						"$ref": "AAAAAAF3pLE+7oOL7lw="
 					},
-					"model": {
-						"$ref": "AAAAAAF1yipehEVcVX8="
-					},
 					"subViews": [
 						{
 							"_type": "LabelView",
@@ -2545,7 +2539,7 @@
 					"target": {
 						"$ref": "AAAAAAF3pLK9D4T5QCk="
 					},
-					"guard": "button IS showMyProjectionsScheduleButton AND user IS projectionist",
+					"guard": "button IS showMyProjectionsScheduleButton AND user HAS projectionist privileges",
 					"triggers": [
 						{
 							"_type": "UMLEvent",
