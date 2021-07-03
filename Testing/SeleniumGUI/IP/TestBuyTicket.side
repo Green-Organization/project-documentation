@@ -1,7 +1,7 @@
 {
   "id": "5478b0ec-a843-4c7b-b799-32780964f62a",
   "version": "2.0",
-  "name": "verify_date_shift",
+  "name": "TestBuyTicket",
   "url": "http://localhost:8080",
   "tests": [{
     "id": "8d811ea2-fa71-45e4-b02c-fd012c3396ae",
@@ -11,6 +11,13 @@
       "comment": "",
       "command": "open",
       "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e236a113-aa85-4659-a4c9-4c55a0bf2d21",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1080",
       "targets": [],
       "value": ""
     }, {
@@ -48,13 +55,6 @@
         ["xpath=//a/button", "xpath:position"],
         ["xpath=//button[contains(.,'Today')]", "xpath:innerText"]
       ],
-      "value": ""
-    }, {
-      "id": "e236a113-aa85-4659-a4c9-4c55a0bf2d21",
-      "comment": "",
-      "command": "setWindowSize",
-      "target": "2064x1128",
-      "targets": [],
       "value": ""
     }, {
       "id": "200ca0c8-86b3-487c-afc8-6447ffa29caa",

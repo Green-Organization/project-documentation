@@ -34,10 +34,10 @@ Submission of the deliverables inside a .zip file via GitHub.
 - Sequence diagram (1 per member, it must include at least 2 synchronous messages and 2 asynchronous messages) :x:
 - State diagram (1 per member, based on the developed use case) :x:
 
-### Testing :x:
+### Testing :heavy_check_mark:
 
 - Develop test cases (at least 3 per member) :heavy_check_mark:
-- Selenium test via GUI (1 per member) :x:
+- Selenium test via GUI (1 per member) :heavy_check_mark:
 - Selenium test via API (1 per member) :heavy_check_mark:
 
 ### Code :x:
