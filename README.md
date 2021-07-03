@@ -48,7 +48,7 @@ Submission of the deliverables inside a .zip file via GitHub.
 - Use and set up a VCS (Git or SVN), a CI/CD tool (GitHub Actions or Travis) and analyze the project with SonarCloud :heavy_check_mark:
 - No SonarCloud rule must be violated (0 code smells). :x:
 
-### Video :x:
+### Video :heavy_check_mark:
 
 - Format: MPEG
-- A one or two minutes long video of the developed system performing the expected functionalities :x:
+- A one or two minutes long video of the developed system performing the expected functionalities :heavy_check_mark:
