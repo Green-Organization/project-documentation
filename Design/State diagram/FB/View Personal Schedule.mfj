@@ -1205,7 +1205,7 @@
 								"$ref": "AAAAAAF3pLV7iYWqsr4="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS backButton] / null"
+							"text": "click [button IS backButton] / NOP"
 						},
 						{
 							"_type": "EdgeLabelView",
@@ -1299,7 +1299,7 @@
 								"$ref": "AAAAAAF3pLYgUYXEhkI="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS backButton] / null"
+							"text": "click [button IS backButton] / NOP"
 						},
 						{
 							"_type": "EdgeLabelView",
@@ -1550,7 +1550,7 @@
 								"$ref": "AAAAAAF3pLbiBoYaaFI="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS exitButton] / null",
+							"text": "click [button IS exitButton] / NOP",
 							"wordWrap": true
 						},
 						{
@@ -1731,16 +1731,16 @@
 							},
 							"font": "Arial;13;0",
 							"left": 734,
-							"top": 294,
+							"top": 301,
 							"width": 282,
-							"height": 26,
+							"height": 13,
 							"alpha": -1.1479428164624492,
 							"distance": 21.93171219946131,
 							"hostEdge": {
 								"$ref": "AAAAAAF3pLknXoY/bMI="
 							},
 							"edgePosition": 1,
-							"text": "timer expired [user session IS NOT expired] / update employee shift list",
+							"text": "timer expired / update employee shift list",
 							"wordWrap": true
 						},
 						{
@@ -1995,7 +1995,7 @@
 								"$ref": "AAAAAAF3pLseVoaN8h4="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS exitButton] / null"
+							"text": "click [button IS exitButton] / NOP"
 						},
 						{
 							"_type": "EdgeLabelView",
@@ -2091,7 +2091,7 @@
 								"$ref": "AAAAAAF3pMgvnoktqBw="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS ViewPersonalScheduleButton AND user IS NOT authenticated] / null",
+							"text": "click [button IS ViewPersonalScheduleButton AND user IS NOT authenticated] / NOP",
 							"wordWrap": true
 						},
 						{
@@ -2188,7 +2188,7 @@
 								"$ref": "AAAAAAF3pMg4sok+WU0="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS ViewPersonalScheduleButton AND user IS authenticated AND user HAS NOT employee privileges] / null",
+							"text": "click [button IS ViewPersonalScheduleButton AND user IS authenticated AND user HAS NOT employee privileges] / NOP",
 							"wordWrap": true
 						},
 						{
@@ -2284,7 +2284,7 @@
 								"$ref": "AAAAAAF3pMiH44lSwL0="
 							},
 							"edgePosition": 1,
-							"text": "click [button IS ViewPersonalScheduleButton AND user IS authenticated AND user HAS employee privileges] / load employee shift list",
+							"text": "click [button IS ViewPersonalScheduleButton AND user IS authenticated AND user HAS employee privileges] / load user shift list",
 							"wordWrap": true
 						},
 						{
@@ -2591,7 +2591,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pLV7iYWpiKg="
 							},
-							"name": "null"
+							"name": "NOP"
 						}
 					]
 				},
@@ -2625,7 +2625,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pLYgUYXD1uQ="
 							},
-							"name": "null"
+							"name": "NOP"
 						}
 					]
 				},
@@ -2659,7 +2659,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pLbiBoYZuFY="
 							},
-							"name": "null"
+							"name": "NOP"
 						}
 					]
 				},
@@ -2688,7 +2688,6 @@
 					"target": {
 						"$ref": "AAAAAAF3pLIKEYSqumc="
 					},
-					"guard": "user session IS NOT expired",
 					"triggers": [
 						{
 							"_type": "UMLEvent",
@@ -2740,7 +2739,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pLseVoaMcvg="
 							},
-							"name": "null"
+							"name": "NOP"
 						}
 					]
 				},
@@ -2774,7 +2773,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pMgvnoksm8E="
 							},
-							"name": "null"
+							"name": "NOP"
 						}
 					]
 				},
@@ -2808,7 +2807,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pMg4sok9tdA="
 							},
-							"name": "null"
+							"name": "NOP"
 						}
 					]
 				},
@@ -2842,7 +2841,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF3pMiH44lRW54="
 							},
-							"name": "load employee shift list"
+							"name": "load user shift list"
 						}
 					]
 				}
