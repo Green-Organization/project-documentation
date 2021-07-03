@@ -1,0 +1,187 @@
+{
+  "id": "9149d037-757d-4978-8e94-d4fb7cc39069",
+  "version": "2.0",
+  "name": "TestManageEmployeeShift",
+  "url": "http://localhost:8080",
+  "tests": [{
+    "id": "751e2555-f2f3-4975-9b63-988e59c9de87",
+    "name": "Change date via data picker",
+    "commands": [{
+      "id": "700f3c6e-762e-4ab1-9e03-dfff27dfd609",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3f2f3547-c377-4bc3-a438-aa41451eb846",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1920x1040",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "f3f2fa80-88f6-4f8c-83bb-e2222cbe880e",
+      "comment": "",
+      "command": "storeValue",
+      "target": "css=form:nth-child(2) > .btn",
+      "targets": [
+        ["css=form:nth-child(2) > .btn", "css:finder"],
+        ["xpath=//input[@value='Login']", "xpath:attributes"],
+        ["xpath=//div[@id='navbarSupportedContent']/form/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "logbtn"
+    }, {
+      "id": "0e7d7fa8-6fe7-4b0c-9343-92d0aa1ff9ad",
+      "comment": "",
+      "command": "if",
+      "target": " ${logbtn} == \"Logout\"",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cddba865-1159-49c6-8169-7691da8fd649",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-outline-secondary",
+      "targets": [
+        ["css=.btn-outline-secondary", "css:finder"],
+        ["xpath=//input[@value='Logout']", "xpath:attributes"],
+        ["xpath=//div[@id='navbarSupportedContent']/form/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5990f3ed-1d46-40f3-894e-6d0792e0747f",
+      "comment": "",
+      "command": "end",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d9993f9c-d59a-4772-8b87-cd00d4931422",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//input[@value='Login']",
+      "targets": [
+        ["css=form:nth-child(2) > .btn", "css:finder"],
+        ["xpath=//input[@value='Login']", "xpath:attributes"],
+        ["xpath=//div[@id='navbarSupportedContent']/form/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f36ca87e-363f-43a5-afad-7db8c4d789fa",
+      "comment": "",
+      "command": "click",
+      "target": "id=floatingInput",
+      "targets": [
+        ["id=floatingInput", "id"],
+        ["name=email", "name"],
+        ["css=#floatingInput", "css:finder"],
+        ["xpath=//input[@id='floatingInput']", "xpath:attributes"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "83d68330-e128-4d67-b1d2-e03625bae500",
+      "comment": "",
+      "command": "type",
+      "target": "id=floatingInput",
+      "targets": [
+        ["id=floatingInput", "id"],
+        ["name=email", "name"],
+        ["css=#floatingInput", "css:finder"],
+        ["xpath=//input[@id='floatingInput']", "xpath:attributes"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "fb@cinehub.com"
+    }, {
+      "id": "8ffad7cd-2ae3-4054-ab88-052fe445bad4",
+      "comment": "",
+      "command": "type",
+      "target": "id=floatingPassword",
+      "targets": [
+        ["id=floatingPassword", "id"],
+        ["name=password", "name"],
+        ["css=#floatingPassword", "css:finder"],
+        ["xpath=//input[@id='floatingPassword']", "xpath:attributes"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "asdfgh"
+    }, {
+      "id": "58022c24-ee71-4129-b1f0-881c7457f11c",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@type='submit']",
+      "targets": [
+        ["css=.btn-lg", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Sign in')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3e3835ef-38a9-413c-bf14-97592d12ce5a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=View schedule",
+      "targets": [
+        ["linkText=View schedule", "linkText"],
+        ["css=.nav-item:nth-child(2) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'View schedule')]", "xpath:link"],
+        ["xpath=//div[@id='navbarSupportedContent']/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/schedule')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'View schedule')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cf8cb088-52c6-4bc4-8578-a5525a154358",
+      "comment": "",
+      "command": "click",
+      "target": "id=date-picker",
+      "targets": [
+        ["css=.col-6:nth-child(6)", "css:finder"],
+        ["xpath=//div[6]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ef785ffd-7a72-4488-9432-e117f2c62c1b",
+      "comment": "",
+      "command": "type",
+      "target": "id=date-picker",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//div[7]/a/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Save Shift')]", "xpath:innerText"]
+      ],
+      "value": "2021-03-25"
+    }, {
+      "id": "ae8e7c76-ab58-4692-8411-a171ef1bad22",
+      "comment": "",
+      "command": "executeScript",
+      "target": "return window.location.href;",
+      "targets": [],
+      "value": "url"
+    }, {
+      "id": "d48fa49c-673a-4fb6-b3c2-6ed123d1b1ac",
+      "comment": "",
+      "command": "verify",
+      "target": "url",
+      "targets": [],
+      "value": "http://localhost:8080/schedule?date=2021-03-25"
+    }]
+  }],
+  "suites": [{
+    "id": "53cdfc17-dd11-47ec-80db-5822c6e63aa4",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["751e2555-f2f3-4975-9b63-988e59c9de87"]
+  }],
+  "urls": ["http://127.0.0.1:8080/", "http://localhost:8080/"],
+  "plugins": []
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+          integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" rel="stylesheet">
+    <title>Storyboards</title>
+</head>
+<body class="bg-secondary">
+<div class="container">
+	<div class="row p-4">
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./FB/home.png')">Home page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./FB/login.png')">Login page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./FB/logged_home.png')">Logged home page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./MM/movie_detail.png')">Movie detail page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./MM/choose_cinema.png')">Choose cinema page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./MM/payment.png')">Payment page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./IP/manage_shift.png')">Manage shift page</button>
+		</div>
+		<div class="col">
+			<button class="btn btn-primary w-75 h-100" onclick="show('./IP/report.png')">Report page</button>
+		</div>
+	</div>
+</div>
+<img id="showcase" src="./FB/home.png" alt="CineHub">
+<script>
+	function show(filename) {
+		document.getElementById("showcase").src = filename;
+	}
+</script>
+</body>
+</html>
