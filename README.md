@@ -19,10 +19,10 @@ Submission of the deliverables inside a .zip file via GitHub.
     3. Functional Requirements (3 per member, it is legitimate to derive them from the user stories) :heavy_check_mark:
     4. Use Cases: Overview diagram (it must include at least 2 secondary actors, 2 include relationships and 2 extend relationships) :heavy_check_mark:
 
-### Storyboards :x:
+### Storyboards :heavy_check_mark:
 
 - Format: HTML
-- Quantity: 2 screens per member, covering all the functionality described in the SRS. :x:
+- Quantity: 2 screens per member, covering all the functionality described in the SRS. :heavy_check_mark:
 
 ### Design :x:
 
