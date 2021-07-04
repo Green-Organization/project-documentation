@@ -11,7 +11,7 @@
    width="1236"
    height="1004"
    id="svg1054"
-   sodipodi:docname="View Personal Schedule Diagram.svg"
+   sodipodi:docname="ViewPersonalSchedule.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata1058">
@@ -39,12 +39,11 @@
      showgrid="false"
      inkscape:zoom="0.86454183"
      inkscape:cx="618"
-     inkscape:cy="502"
+     inkscape:cy="455.73272"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1052"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="g1052" />
   <defs
      id="defs2" />
   <g
@@ -789,7 +788,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 454,784 H 248 V 331 h 210"
+         d="M 494,784 H 720 V 331 H 490"
          stroke-miterlimit="10"
          id="path764" />
     </g>
@@ -799,7 +798,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 447.83733,335.20952 458,331 447.83733,326.79048"
+         d="M 500.16267,326.79048 490,331 l 10.16267,4.20952"
          stroke-miterlimit="10"
          id="path768" />
     </g>
@@ -821,10 +820,10 @@
            font-style="normal"
            font-weight="normal"
            text-decoration="none"
-           x="308.51904"
-           y="771.5"
+           x="558.96948"
+           y="772.5"
            id="text774"
-           style="text-decoration:none;text-decoration-line:none">[timer elapsed]</text>
+           style="text-decoration:none;text-decoration-line:none">[timer expired]</text>
       </g>
     </g>
     <g
