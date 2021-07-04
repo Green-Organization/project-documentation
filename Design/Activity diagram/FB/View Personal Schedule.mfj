@@ -1552,17 +1552,17 @@
 								"$ref": "AAAAAAF3p5MxIekyUxw="
 							},
 							"font": "Arial;13;0",
-							"left": 270,
-							"top": 759,
+							"left": 519,
+							"top": 760,
 							"width": 166.91162109375,
 							"height": 13,
-							"alpha": -2.6760329185779703,
-							"distance": 233.89313799254566,
+							"alpha": -3.65557077465815,
+							"distance": 240.01041644062033,
 							"hostEdge": {
 								"$ref": "AAAAAAF3p5MxIekzcM0="
 							},
 							"edgePosition": 1,
-							"text": " [timer elapsed]"
+							"text": " [timer expired]"
 						},
 						{
 							"_type": "EdgeLabelView",
@@ -1575,7 +1575,7 @@
 							},
 							"visible": null,
 							"font": "Arial;13;0",
-							"left": 218,
+							"left": 690,
 							"top": 550,
 							"height": 13,
 							"alpha": 1.5707963267948966,
@@ -1596,7 +1596,7 @@
 							},
 							"visible": false,
 							"font": "Arial;13;0",
-							"left": 263,
+							"left": 735,
 							"top": 551,
 							"height": 13,
 							"alpha": -1.5707963267948966,
@@ -1614,7 +1614,7 @@
 					"tail": {
 						"$ref": "AAAAAAF3p5Lvs+kcXp8="
 					},
-					"points": "454:784;248:784;248:331;458:331",
+					"points": "494:784;720:784;720:331;490:331",
 					"showVisibility": true,
 					"nameLabel": {
 						"$ref": "AAAAAAF3p5MxIek0xdA="
@@ -3682,7 +3682,7 @@
 			"target": {
 				"$ref": "AAAAAAF3p41A2udl7Ao="
 			},
-			"guard": "timer elapsed"
+			"guard": "timer expired"
 		},
 		{
 			"_type": "UMLControlFlow",
