@@ -24,12 +24,12 @@ Submission of the deliverables inside a .zip file via GitHub.
 - Format: HTML
 - Quantity: 2 screens per member, covering all the functionality described in the SRS. :heavy_check_mark:
 
-### Design :x:
+### Design :heavy_check_mark:
 
 - Class diagram:
-    * analysis VOPC (1 per member) :x:
-    * design level diagram including patterns or specific solutions that improve the engineering level of the system (1 per member) :x:
-- Design patterns: possibly applied in the project context (1 per member) :x:
+    * analysis VOPC (1 per member) :heavy_check_mark:
+    * design level diagram including patterns or specific solutions that improve the engineering level of the system (1 per member) :heavy_check_mark:
+- Design patterns: possibly applied in the project context (1 per member) :heavy_check_mark:
 - Activity diagram (1 per member, it must include every studied element of the activity diagrams) :heavy_check_mark:
 - Sequence diagram (1 per member, it must include at least 2 synchronous messages and 2 asynchronous messages) :heavy_check_mark:
 - State diagram (1 per member, based on the developed use case) :heavy_check_mark:
