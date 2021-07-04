@@ -32,7 +32,7 @@ Submission of the deliverables inside a .zip file via GitHub.
 - Design patterns: possibly applied in the project context (1 per member) :x:
 - Activity diagram (1 per member, it must include every studied element of the activity diagrams) :x:
 - Sequence diagram (1 per member, it must include at least 2 synchronous messages and 2 asynchronous messages) :x:
-- State diagram (1 per member, based on the developed use case) :x:
+- State diagram (1 per member, based on the developed use case) :heavy_check_mark:
 
 ### Testing :heavy_check_mark:
 
