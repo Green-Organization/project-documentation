@@ -27121,7 +27121,7 @@
 																"$ref": "AAAAAAF6cQY39la9Dys="
 															},
 															"edgePosition": 1,
-															"text": "34 : Message12"
+															"text": "34 : "
 														},
 														{
 															"_type": "EdgeLabelView",
@@ -28541,7 +28541,6 @@
 											"_parent": {
 												"$ref": "AAAAAAF3p+Oj8b+L0Ec="
 											},
-											"name": "Message12",
 											"source": {
 												"$ref": "AAAAAAF6cNEnOlL8LAY="
 											},
@@ -52091,7 +52090,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 504,
-											"top": 423,
+											"top": 424,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -52112,7 +52111,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 504,
-											"top": 408,
+											"top": 409,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -52133,7 +52132,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 504,
-											"top": 453,
+											"top": 454,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -74765,7 +74764,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 1734,
-											"top": 694,
+											"top": 695,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -74786,7 +74785,7 @@
 											"visible": null,
 											"font": "Arial;13;0",
 											"left": 1749,
-											"top": 694,
+											"top": 695,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -74807,7 +74806,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 1705,
-											"top": 695,
+											"top": 696,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
